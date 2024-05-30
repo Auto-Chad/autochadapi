@@ -1,0 +1,21 @@
+name = "autoapi"
+compatibility_date = "2023-12-01"
+
+# [vars]
+# MY_VAR = "my-variable"
+
+# [[kv_namespaces]]
+# binding = "MY_KV_NAMESPACE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "autochad"
+database_id = "03e91a8c-4a31-4ddf-a443-0ad30c6306c5"
+
+# [ai]
+# binding = "AI"
